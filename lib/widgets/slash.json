@@ -1,0 +1,156 @@
+[
+  [
+    [
+      6
+    ],
+    {
+      machine_id: ac28964454187128cec3d58c2e68aa6272a7bdb267bb1368ee00c90a4dd4370d,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5E1Wz4QzJ3H2hXMDVwYUuKuPrAh6kH2iXkNkoHbLVxxcARsG,
+        5FRXtTKrbysSP2e3h3YpDYpH4bzRjeN5ZhnvK6ssvQcQyULV,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 17,702,
+      slash_exec_time: 23,462,
+      book_result: NoConsensus,
+      slash_result: Pending
+    }
+  ],
+  [
+    [
+      5
+    ],
+    {
+      machine_id: dec5a3d0bb8c93c2779abaee44665f84f30d7abab279cf240ad818905449f07f,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5FRXtTKrbysSP2e3h3YpDYpH4bzRjeN5ZhnvK6ssvQcQyULV,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf,
+        5HL92dTnQrZSJZy7ckDVYVt9mMX3NsjShWsYDquB3eB3yb5R
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 17,450,
+      slash_exec_time: 23,210,
+      book_result: NoConsensus,
+      slash_result: Pending
+    }
+  ],
+  [
+    [
+      3
+    ],
+    {
+      machine_id: f2a70e18aeb1d3614a2f8f57f0c9f7a43c2ecf42d27253b26ff6bf9956b1441f,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5E1Wz4QzJ3H2hXMDVwYUuKuPrAh6kH2iXkNkoHbLVxxcARsG,
+        5FRXtTKrbysSP2e3h3YpDYpH4bzRjeN5ZhnvK6ssvQcQyULV,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 14,515,
+      slash_exec_time: 20,275,
+      book_result: NoConsensus,
+      slash_result: Pending
+    }
+  ],
+  [
+    [
+      1
+    ],
+    {
+      machine_id: dec5a3d0bb8c93c2779abaee44665f84f30d7abab279cf240ad818905449f07f,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5E1Wz4QzJ3H2hXMDVwYUuKuPrAh6kH2iXkNkoHbLVxxcARsG,
+        5FRXtTKrbysSP2e3h3YpDYpH4bzRjeN5ZhnvK6ssvQcQyULV,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 11,690,
+      slash_exec_time: 17,450,
+      book_result: NoConsensus,
+      slash_result: Executed
+    }
+  ],
+  [
+    [
+      4
+    ],
+    {
+      machine_id: 885f955d22c9f5febcd07ab99c30120ef32afda50429c7740e3e63231043056a,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5E1Wz4QzJ3H2hXMDVwYUuKuPrAh6kH2iXkNkoHbLVxxcARsG,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf,
+        5HL92dTnQrZSJZy7ckDVYVt9mMX3NsjShWsYDquB3eB3yb5R
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 17,410,
+      slash_exec_time: 23,170,
+      book_result: NoConsensus,
+      slash_result: Pending
+    }
+  ],
+  [
+    [
+      0
+    ],
+    {
+      machine_id: f2a70e18aeb1d3614a2f8f57f0c9f7a43c2ecf42d27253b26ff6bf9956b1441f,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5E1Wz4QzJ3H2hXMDVwYUuKuPrAh6kH2iXkNkoHbLVxxcARsG,
+        5FRXtTKrbysSP2e3h3YpDYpH4bzRjeN5ZhnvK6ssvQcQyULV,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 8,755,
+      slash_exec_time: 14,515,
+      book_result: NoConsensus,
+      slash_result: Executed
+    }
+  ],
+  [
+    [
+      2
+    ],
+    {
+      machine_id: ac28964454187128cec3d58c2e68aa6272a7bdb267bb1368ee00c90a4dd4370d,
+      machine_stash: 5C4hrfjw9DjXZTzV3MwzrrAr9P1MJhSrvWGWqi1eSuyUpnhM,
+      stash_slash_amount: 0,
+      inconsistent_committee: [],
+      unruly_committee: [
+        5E1Wz4QzJ3H2hXMDVwYUuKuPrAh6kH2iXkNkoHbLVxxcARsG,
+        5FRXtTKrbysSP2e3h3YpDYpH4bzRjeN5ZhnvK6ssvQcQyULV,
+        5GMzcNZMjpMF7tEcyLR4gzndTjsUtNAHn8nfKfxjW6gMjNSf
+      ],
+      reward_committee: [],
+      committee_stake: 1.0000 kDBC,
+      slash_time: 11,942,
+      slash_exec_time: 17,702,
+      book_result: NoConsensus,
+      slash_result: Executed
+    }
+  ]
+]
